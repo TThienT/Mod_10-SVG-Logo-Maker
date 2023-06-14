@@ -24,4 +24,4 @@ A terminal application that generates SVG Logo based on the user's selection of 
 
 ## Credit
 -Thien Trinh
--Solution from Bootcamp Gitlab
+-Some help from Solution from Bootcamp Gitlab
