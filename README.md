@@ -13,7 +13,7 @@ A terminal application that generates SVG Logo based on the user's selection of 
 
 ## Video Tutorial 
 
-<Links go here>
+<https://drive.google.com/file/d/1NQo7RD65NvMs56CjchocA7b0GRKGehec/view?usp=sharing>
 
 ## References
 
