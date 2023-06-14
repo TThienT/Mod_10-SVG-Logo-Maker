@@ -1,6 +1,6 @@
 # Mod_10-SVG-Logo-Maker
 
-A terminal application that generate SVG base on user's selection of shapes and colors.
+A terminal application that generates SVG Logo based on the user's selection of shapes and colors.
 
 ## Usage
 
